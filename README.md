@@ -30,8 +30,9 @@ drone_interceptor/
 
 ## How to Run
 
-```bash
+```
 python main.py
+
 ```
 
 ## Concepts Used
